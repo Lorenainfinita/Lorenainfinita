@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200"/>
 </div>
 
-https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif
+
 
 !--
 **Lorenainfinita/Lorenainfinita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
